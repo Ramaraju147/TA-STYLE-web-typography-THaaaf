@@ -1,0 +1,217 @@
+body,
+html {
+  margin: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+  color: #2d2640;
+}
+
+p {
+  color: #8e8c93;
+}
+
+hr {
+  border-top: 3px solid #dfdfdf;
+  width: 30%;
+  margin: 0px;
+}
+
+.btn {
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.padding {
+  padding: 40px;
+}
+
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-left: 15px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #8e8c93;
+}
+
+.hero {
+  background-color: #2d2640;
+  color: white;
+}
+
+.plan {
+  border: 1px solid #8e8c93;
+  padding: 10px;
+}
+
+.col-1 {
+  width: 50%;
+}
+
+.col-1 h2 {
+  color: white;
+  font-size: 52px;
+  margin-bottom: 0px;
+}
+
+.col-1 p {
+  color: #b1afb5;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.col-1 button {
+  color: white;
+  border: 1px solid #8e8c93;
+  background-color: #2d2640;
+}
+
+.col-2 {
+  position: relative;
+  width: 50%;
+}
+
+.col-2 img {
+  position: absolute;
+  right: 16px;
+  top: -150px;
+  height: 500px;
+  object-fit: cover;
+}
+
+.padding-2 {
+  margin-top: 80px;
+}
+
+.col-1-1 {
+  width: 55%;
+}
+
+.col-1-1 img {
+  height: 500px;
+}
+
+.col-1-2 {
+  width: 40%;
+}
+
+.col-1-2 h2 {
+  font-size: 36px;
+  margin-bottom: 0px;
+}
+
+.col-1-2 p {
+  font-size: 18px;
+}
+
+.col-1-2 button {
+  background-color: white;
+  color: #8e8c93;
+  font-weight: 600;
+}
+
+.padding-3 {
+  margin-top: 100px;
+}
+
+.process h2 {
+  color: #2d2640;
+  font-size: 40px;
+}
+
+.settings {
+  background-color: #8ab4f0;
+  border-radius: 50%;
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 30px;
+}
+
+.col {
+  width: 30%;
+}
+
+.col h3 {
+  font-size: 24px;
+  margin-bottom: 0px;
+}
+
+.col p {
+  font-size: 18px;
+}
+
+.padding-4 {
+  padding: 30px 0px;
+}
+
+.box h2 {
+  color: white;
+  font-size: 40px;
+  padding: 0 50px;
+}
+
+.box button {
+  background-color: #2d2640;
+  color: white;
+  border: 1px solid #8e8c93;
+  margin: 0 60px;
+}
+
+.footer {
+  margin-top: 40px;
+}
+
+.footer h2 {
+  font-size: 30px;
+}
+
+.icon {
+  display: flex;
+}
+
+.footer i {
+  font-size: 20px;
+  color: #8e8c93;
+  margin-left: 15px;
+  align-self: flex-end;
+}
+
+.foot-nav {
+  text-align: center;
+  padding: 20px 0px;
+}
+
+.foot-nav a {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+footer {
+  background-color: #2d2640;
+  color: #8e8c93;
+  text-align: center;
+  padding: 15px 0px;
+  font-size: 18px;
+}
