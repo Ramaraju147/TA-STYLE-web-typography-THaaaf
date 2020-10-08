@@ -1,0 +1,45 @@
+html,
+body {
+  margin: 0;
+  background-color: #181616;
+  color: white;
+  text-align: justify;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: "Avro";
+  font-size: 44px;
+  text-shadow: 10px 20px 12px black;
+}
+
+p {
+  font-family: "Architects+Daughter";
+  line-height: 1.5;
+  font-size: 18px;
+  font-style: italic;
+}
+
+blockquote {
+  font-size: 22px;
+}
+
+.p1 {
+  text-indent: 50px;
+}
+
+.tag {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tag-text {
+  color: red;
+  font-family: "Abel";
+  font-weight: bold;
+  letter-spacing: 2px;
+}
